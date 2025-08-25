@@ -398,3 +398,82 @@ elif choice == '36':
 elif choice == '37':
     sdsd = q37
     print(GREEN + "✅ تم اختيار بلاغ: لقد تعرضت بنفسي للتنمر أو المضايقة" + RESET)
+
+elif choice == '38':
+    sdsd = q38
+    print(GREEN + "✅ تم اختيار بلاغ: لقد تعرضت بنفسي للتنمر أو المضايقة" + RESET)
+
+elif choice == '39':
+    sdsd = q39
+    print(GREEN + "✅ تم اختيار بلاغ: الانتحار وإيذاء النفس " + RESET)
+elif choice == '40':
+    sdsd = q40
+    print(GREEN + "✅ اضطرابات الأكل وصورة الجسم غير الصحية " + RESET)
+
+elif choice == '41':
+    sdsd = q41
+    print(GREEN + "✅ الأنشطة والتحديات الخطرة" + RESET)
+elif choice == '42':
+    sdsd = q42
+    print(GREEN + "✅ النشاط الجنسي للشباب والاستدراج الجنسي والاستغلال الجنسي" + RESET)
+elif choice == '43':
+    sdsd = q43
+    print(GREEN + "✅ النشاط الجنسي للشباب والاستدراج الجنسي والاستغلال الجنسي" + RESET)
+elif choice == '44':
+    sdsd = q44
+    print(GREEN + "✅ النشاط الجنسي للبالغين والخدمات الجنسية والاستدراج الجنسي" + RESET)
+elif choice == '45':
+    sdsd = q45
+    print(GREEN + "✅ عُري البالغين" + RESET)
+
+elif choice == '46':
+    sdsd = q46
+    print(GREEN + "✅ اللغة الجنسية الفاحشة" + RESET)
+
+elif choice == '47':
+    sdsd = q47
+    print(GREEN + "✅ المحتوى صادم وبشع المنظر" + RESET)
+elif choice == '48':
+    sdsd = q48
+    print(GREEN + "✅ معلومات خاطئة عن الانتخابات" + RESET)
+elif choice == '49':
+    sdsd = q49
+    print(GREEN + "✅ معلومات ضارة مضللة " + RESET)
+elif choice == '80':
+    sdsd = q50
+    print(GREEN + "✅ معلومات ضارة مضللة " + RESET)
+elif choice == '51':
+    sdsd = q51
+    print(GREEN + "✅ معلومات ضارة مضللة " + RESET)
+elif choice == '53':
+    sdsd = q52
+    print(GREEN + "✅ مزعج " + RESET)
+elif choice == '54':
+    sdsd = q53
+    print(GREEN + "✅ المقامرة" + RESET)
+elif choice == '55':
+    sdsd = q54
+    print(GREEN + "✅ الكحول والتبغ والمخدرات" + RESET)
+elif choice == '56':
+    sdsd = q55
+    print(GREEN + "✅ الأسلحة النارية والأسلحة الخطرة" + RESET)
+elif choice == '57':
+    sdsd = q56
+    print(GREEN + "✅ تجارة السلع والخدمات الأخرى الخاضعة للإرشادات التنظيمية " + RESET)
+elif choice == '58':
+    sdsd = q57
+    print(GREEN + "✅ الغش والاحتيال" + RESET)
+elif choice == '59':
+    sdsd = q58
+    print(GREEN + "✅ مشاركة المعلومات الشخصية " + RESET)
+
+elif choice == '60':
+    sdsd = q59
+    print(GREEN + "✅ اشتباه في انتهاك الملكية الفكرية لآخرين" + RESET)
+elif choice == '61':
+    sdsd = q60
+    print(GREEN + "✅ محتوى مرتبط بعلامة تجارية غير معلن عنه " + RESET)
+elif choice == '62':
+    sdsd = q61
+    print(GREEN + "✅ محتوى مرتبط بعلامة تجارية غير معلن عنه " + RESET)
+    print(RED + "⚠️ اختيار غير صحيح، تم استخدام بلاغ أوروبي كخيار افتراضي" + RESET)
